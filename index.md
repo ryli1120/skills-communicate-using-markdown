@@ -9,3 +9,7 @@ Added headers to the file
 num = 5
 name = "Ryan"
 ```
+
+- [x] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world 
